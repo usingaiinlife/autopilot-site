@@ -1,0 +1,8 @@
+baseURL = "https://stirring-profiterole-897f97.netlify.app/"
+languageCode = "en-us"
+title = "Autopilot Site"
+theme = "autopilot-theme"
+paginate = 10
+
+[params]
+  author = "UsingAIInLife"
